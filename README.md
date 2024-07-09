@@ -8,8 +8,6 @@ Welcome to the Expense Tracker Webpage! This project helps you manage your finan
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
