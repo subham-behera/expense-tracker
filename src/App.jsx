@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import HomeComponent from "./modules/home/HomeComponent";
+import HomeComponent from "./components/HomeComponent";
 import "./App.css";
 
 const Container = styled.div`

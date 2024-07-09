@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import OverViewComponent from "./OverViewComponent";
 import TransactionsComponent from "./TransactionsComponent";
-import AnalyticsComponent from "../../components/AnalyticsComponent";
+import AnalyticsComponent from "./AnalyticsComponent";
 
 const Container = styled.div`
   background-color: white;
