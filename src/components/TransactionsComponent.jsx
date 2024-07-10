@@ -10,7 +10,7 @@ const Container = styled.div`
   flex-direction: column;
   padding: 10px 22px;
   font-size: 18px;
-  width: 100%;
+  width: 96%;
   gap: 10px;
   font-weight: bold;
   overflow-y: auto !important;
